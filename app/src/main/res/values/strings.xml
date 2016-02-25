@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Red Package Script</string>
+    <string name="accessibility_description">Start auto "拆红包" server</string>
+</resources>

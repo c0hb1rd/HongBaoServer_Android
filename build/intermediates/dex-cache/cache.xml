@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/c01b1rd/AndroidStudioProjects/HongBao/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/c01b1rd/AndroidStudioProjects/HongBao/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_9afe7a313686b02afc8fe006db7da0706ba10660.jar" />
+    </item>
+    <item
+        jar="/home/c01b1rd/Andro/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/c01b1rd/AndroidStudioProjects/HongBao/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_94811fe89b1cccef7353b1744b89fe7f9c6475a5.jar" />
+    </item>
+    <item
+        jar="/home/c01b1rd/AndroidStudioProjects/HongBao/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a40b561e5c1bd45587f3aaa5fa4201e5358f51c1">
+        <dex dex="/home/c01b1rd/AndroidStudioProjects/HongBao/app/build/intermediates/pre-dexed/debug/classes_54fdb7c04e5a097f891b8dcd100c7e0cef43f97b.jar" />
+    </item>
+    <item
+        jar="/home/c01b1rd/AndroidStudioProjects/HongBao/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fcd33753409010e6a745ee7c9a34b13a08016c84">
+        <dex dex="/home/c01b1rd/AndroidStudioProjects/HongBao/app/build/intermediates/pre-dexed/debug/instant-run_39426b1ee8daea1c4cf63288c5c1880e8a7fc6f0.jar" />
+    </item>
+    <item
+        jar="/home/c01b1rd/AndroidStudioProjects/HongBao/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/c01b1rd/AndroidStudioProjects/HongBao/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_4370113a2c634b7049bcf9faf823955f60d01a4c.jar" />
+    </item>
+    <item
+        jar="/home/c01b1rd/AndroidStudioProjects/HongBao/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/c01b1rd/AndroidStudioProjects/HongBao/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_b238c2e083755558ac4c57930149c155592de0b6.jar" />
+    </item>
+
+</items>
